@@ -1,0 +1,59 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.red{
+	background-color:#D65C5E;}
+	
+.blue{
+	background-color:#4473A0;}
+	
+body{
+	background-color:#5A5A5A;}
+	
+button{
+	background-color:#A7A2AE;
+	outline:none;
+	margin:0 50%;
+	border:thin;
+	border-radius:5px;
+	width:75px;
+	height:25px;}
+
+#txtbutton{
+	background-color:#A1D1DB;
+	outline:none;
+	margin:0 50%;
+	border:thin;
+	border-radius:5px;
+	width:75px;
+	height:25px;}
+	
+#textbox{
+	background-color:#A1D1DB;
+	outline:none;
+	text-align:center;
+	margin:0 50% 15px 50%;
+	border:thin;
+	border-radius:5px;
+	width:70px;
+	height:20px;}
+	
+.show{
+	background-color:#F9F2F2;
+	outline:none;
+	text-align:center;
+	margin:3px 50% 200px 50%;
+	border:thin;
+	border-radius:5px;
+	width:70px;
+	height:20px;}
+	
+.showMore{
+	background-color:#F9F2F2;
+	outline:none;
+	text-align:center;
+	margin:50px 50% 0 50%;
+	border:thin;
+	border-radius:5px;
+	width:70px;
+	height:20px;}
